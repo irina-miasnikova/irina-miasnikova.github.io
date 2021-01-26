@@ -3,76 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://159.203.175.103:8080/categories/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://159.203.175.103:8080/tags/css/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://159.203.175.103:8080/tags/html/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://159.203.175.103:8080/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://159.203.175.103:8080/tags/markdown/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://159.203.175.103:8080/projects/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://159.203.175.103:8080/tags/shortcodes/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://159.203.175.103:8080/tags/showcase/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://159.203.175.103:8080/projects/___style-guide/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://159.203.175.103:8080/categories/syntax/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://159.203.175.103:8080/tags/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://159.203.175.103:8080/tags/text/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://159.203.175.103:8080/categories/themes/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://159.203.175.103:8080/about/</loc>
-  </url>
-  
-  <url>
     <loc>http://159.203.175.103:8080/projects/business-district/</loc>
+  </url>
+  
+  <url>
+    <loc>http://159.203.175.103:8080/categories/</loc>
   </url>
   
   <url>
@@ -84,11 +19,23 @@
   </url>
   
   <url>
+    <loc>http://159.203.175.103:8080/</loc>
+  </url>
+  
+  <url>
     <loc>http://159.203.175.103:8080/projects/business-center/</loc>
   </url>
   
   <url>
+    <loc>http://159.203.175.103:8080/projects/</loc>
+  </url>
+  
+  <url>
     <loc>http://159.203.175.103:8080/projects/residential-complex/</loc>
+  </url>
+  
+  <url>
+    <loc>http://159.203.175.103:8080/tags/</loc>
   </url>
   
   <url>
