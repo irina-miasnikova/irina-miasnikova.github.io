@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>syntax on Irina Miasnikova</title>
+    <link>http://159.203.175.103:8080/categories/syntax/</link>
+    <description>Recent content in syntax on Irina Miasnikova</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>asaa</copyright>
+    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://159.203.175.103:8080/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Style Guide</title>
+      <link>http://159.203.175.103:8080/projects/___style-guide/</link>
+      <pubDate>Sat, 04 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://159.203.175.103:8080/projects/___style-guide/</guid>
+      <description>&lt;p&gt;The Style Guide provides you with a set of standards for the writing and design of theme posts and pages, either for
+general use or for a specific publication, organization, or field.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
