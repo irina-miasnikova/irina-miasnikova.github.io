@@ -6,11 +6,7 @@
     <description>Recent content in index on Irina Miasnikova</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>asaa</copyright>
-    
-	<atom:link href="http://159.203.175.103:8080/tags/index/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>asaa</copyright><atom:link href="http://159.203.175.103:8080/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Posts</title>
       <link>http://159.203.175.103:8080/projects/</link>

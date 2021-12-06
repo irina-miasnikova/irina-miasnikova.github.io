@@ -6,10 +6,6 @@
     <description>Recent content in Categories on Irina Miasnikova</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>asaa</copyright>
-    
-	<atom:link href="http://159.203.175.103:8080/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>asaa</copyright><atom:link href="http://159.203.175.103:8080/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
